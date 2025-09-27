@@ -1,4 +1,3 @@
-# Forg - File Organzier
+# Forg - File Organizer
 
-A cli build with Rust
-
+Forg is a command-line tool written in Rust designed to help you efficiently manage and organize files and directories.
